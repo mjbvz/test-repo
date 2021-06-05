@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-function MyApp() {
+function MyRemoteApp() {
   return (
     <div className="App">
       <header className="App-header">
@@ -22,4 +22,4 @@ function MyApp() {
   );
 }
 
-export default MyApp;
+export default MyRemoteApp;
