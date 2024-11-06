@@ -1,3 +1,14 @@
++++
+title = 'hugo 教程'
+date = 2024-08-31T07:55:49+08:00
+description = '本文档讲述 hugo 的使用，参考 hugo 官方文档。'
+weight = 3
+categories = ['站点制作']
+tags = ['hugo', 'markdown']
+# [params]
+#   author = 'John Smith'
++++
+
 # 😀 a 😀 b 😀
 
 # Getting Started with Create React App
