@@ -1,5 +1,5 @@
 name: 'VS Code Editor Issue'
-Description: 'Issue using tsgo in VS Code'
+description: 'Issue using tsgo in VS Code'
 labels: 'Domain: Editor'
 assignees: []
 body:
